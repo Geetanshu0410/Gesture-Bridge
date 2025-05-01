@@ -53,6 +53,9 @@ GestureBridge/
 ├── results/            # Output visualizations and prediction logs
 ├── README.md
 
+ THE CODE IS AVAIABLE IN THREE SECTION ONE FOR THE WORDS(HAGRID),ALPHABETS(ASL),DRAWING!!
+  SO BASED ON THIS FOLDER WITH ZIP IS BE CREATE AND A FINAL FOLDER OF COMPILATION OF EACH AND EVERY INSTANCE OF IT 
+
 🚀 Future Enhancements
 🎙️ Add speech synthesis to read out translated text
 
